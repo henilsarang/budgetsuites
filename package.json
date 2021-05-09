@@ -1,0 +1,19 @@
+{
+  "name": "budget-suites",
+  "version": "1.0.0",
+  "description": "CMPE 165 Project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "cd server && npm install && node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+  }
+}
